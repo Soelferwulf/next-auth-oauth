@@ -1,3 +1,15 @@
+Me doing Auth.js basic authentification tutorial from tapaScript, plus some added stuff, like connection to mongo running in docker.
+
+
+***
+
+
+
+
+
+
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
